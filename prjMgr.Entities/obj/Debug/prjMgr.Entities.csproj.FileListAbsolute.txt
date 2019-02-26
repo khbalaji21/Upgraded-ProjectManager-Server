@@ -1,0 +1,14 @@
+C:\github\prjMgrWebAPI\prjMgr.Entities\obj\Debug\prjMgr.Entities.csprojAssemblyReference.cache
+C:\github\prjMgrWebAPI\prjMgr.Entities\obj\Debug\prjMgr.Entities.csproj.CoreCompileInputs.cache
+C:\github\prjMgrWebAPI\prjMgr.Entities\bin\Debug\prjMgr.Entities.dll.config
+C:\github\prjMgrWebAPI\prjMgr.Entities\bin\Debug\prjMgr.Entities.dll
+C:\github\prjMgrWebAPI\prjMgr.Entities\bin\Debug\prjMgr.Entities.pdb
+C:\github\prjMgrWebAPI\prjMgr.Entities\bin\Debug\EntityFramework.dll
+C:\github\prjMgrWebAPI\prjMgr.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\github\prjMgrWebAPI\prjMgr.Entities\bin\Debug\EntityFramework.xml
+C:\github\prjMgrWebAPI\prjMgr.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\github\prjMgrWebAPI\prjMgr.Entities\obj\Debug\prjMgr.Entities.csproj.CopyComplete
+C:\github\prjMgrWebAPI\prjMgr.Entities\obj\Debug\prjMgr.Entities.dll
+C:\github\prjMgrWebAPI\prjMgr.Entities\obj\Debug\prjMgr.Entities.pdb
+C:\github\prjMgrWebAPI\prjMgr.Entities\obj\Debug\prjMgr.Entities.Migrations.Initial.resources
+C:\github\prjMgrWebAPI\prjMgr.Entities\obj\Debug\prjMgr.Entities.csproj.GenerateResource.cache

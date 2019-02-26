@@ -1,0 +1,15 @@
+C:\github\prjMgrWebAPI\prjMgr.DAL\bin\Debug\prjMgr.DAL.dll.config
+C:\github\prjMgrWebAPI\prjMgr.DAL\bin\Debug\prjMgr.DAL.dll
+C:\github\prjMgrWebAPI\prjMgr.DAL\bin\Debug\prjMgr.DAL.pdb
+C:\github\prjMgrWebAPI\prjMgr.DAL\bin\Debug\EntityFramework.dll
+C:\github\prjMgrWebAPI\prjMgr.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\github\prjMgrWebAPI\prjMgr.DAL\bin\Debug\prjMgr.Entities.dll
+C:\github\prjMgrWebAPI\prjMgr.DAL\bin\Debug\prjMgr.Entities.pdb
+C:\github\prjMgrWebAPI\prjMgr.DAL\bin\Debug\prjMgr.Entities.dll.config
+C:\github\prjMgrWebAPI\prjMgr.DAL\bin\Debug\EntityFramework.xml
+C:\github\prjMgrWebAPI\prjMgr.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\github\prjMgrWebAPI\prjMgr.DAL\obj\Debug\prjMgr.DAL.csprojAssemblyReference.cache
+C:\github\prjMgrWebAPI\prjMgr.DAL\obj\Debug\prjMgr.DAL.csproj.CoreCompileInputs.cache
+C:\github\prjMgrWebAPI\prjMgr.DAL\obj\Debug\prjMgr.DAL.csproj.CopyComplete
+C:\github\prjMgrWebAPI\prjMgr.DAL\obj\Debug\prjMgr.DAL.dll
+C:\github\prjMgrWebAPI\prjMgr.DAL\obj\Debug\prjMgr.DAL.pdb

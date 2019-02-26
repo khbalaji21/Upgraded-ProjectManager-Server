@@ -1,0 +1,15 @@
+C:\github\prjMgrWebAPI\prjMgr.BAL\bin\Debug\prjMgr.BAL.dll
+C:\github\prjMgrWebAPI\prjMgr.BAL\bin\Debug\prjMgr.BAL.pdb
+C:\github\prjMgrWebAPI\prjMgr.BAL\bin\Debug\prjMgr.DAL.dll
+C:\github\prjMgrWebAPI\prjMgr.BAL\bin\Debug\prjMgr.Entities.dll
+C:\github\prjMgrWebAPI\prjMgr.BAL\bin\Debug\EntityFramework.dll
+C:\github\prjMgrWebAPI\prjMgr.BAL\bin\Debug\prjMgr.DAL.pdb
+C:\github\prjMgrWebAPI\prjMgr.BAL\bin\Debug\prjMgr.DAL.dll.config
+C:\github\prjMgrWebAPI\prjMgr.BAL\bin\Debug\prjMgr.Entities.pdb
+C:\github\prjMgrWebAPI\prjMgr.BAL\bin\Debug\prjMgr.Entities.dll.config
+C:\github\prjMgrWebAPI\prjMgr.BAL\bin\Debug\EntityFramework.xml
+C:\github\prjMgrWebAPI\prjMgr.BAL\obj\Debug\prjMgr.BAL.csprojAssemblyReference.cache
+C:\github\prjMgrWebAPI\prjMgr.BAL\obj\Debug\prjMgr.BAL.csproj.CoreCompileInputs.cache
+C:\github\prjMgrWebAPI\prjMgr.BAL\obj\Debug\prjMgr.BAL.csproj.CopyComplete
+C:\github\prjMgrWebAPI\prjMgr.BAL\obj\Debug\prjMgr.BAL.dll
+C:\github\prjMgrWebAPI\prjMgr.BAL\obj\Debug\prjMgr.BAL.pdb
